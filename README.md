@@ -12,7 +12,7 @@
 
 5. training word2vec model
 
-6. training char-level language model, try sequence-to-sequence learning
+6. training char-level language model, with seq2seq model problem
 
 
 Course website: https://www.udacity.com/course/deep-learning--ud730
