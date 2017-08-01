@@ -1,6 +1,6 @@
 ## Google's Deep Learning course
 
-### 6 assignments (in tensorflow)
+### 6 assignments (in tensorflow, with version 0.11)
 
 1. clean huge image dataset
 
